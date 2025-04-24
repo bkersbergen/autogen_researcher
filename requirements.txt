@@ -1,0 +1,4 @@
+dotenv
+duckduckgo-search
+autogen
+ag2[openai]
